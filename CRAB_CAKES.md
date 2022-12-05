@@ -39,7 +39,7 @@ This is for a single batch, you can scale ingredients for however many lbs of cr
 ## Directions
 
 - Preheat oven, 450F
-- Put all the stuff from #base-/-binding into a bowl and whisk it up
+- Put all the stuff from [Base / Binding](#base--binding) into a bowl and whisk it up
 - Add the crab
 - Add the saltines
 - Fold everything together with the rubber spatula, gently
