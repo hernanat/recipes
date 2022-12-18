@@ -8,6 +8,7 @@ This is for a single batch, you can scale ingredients for however many lbs of cr
 ## Base / Binding
 
 - 1 large egg (for binding)
+- 1-ish tbsp of fresh parsley
 - 1/4-ish cup mayo (also for binding)
 - 2-3tsp dijon, depending on your mustard pref
 - 2-3 tsp worcestershire
